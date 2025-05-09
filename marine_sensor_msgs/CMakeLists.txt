@@ -22,6 +22,7 @@ set(MSG_FILES
   "msg/RadarEcho.msg"
   "msg/RadarSector.msg"
   "msg/TurbidityNTU.msg"
+  "msg/CTD.msg"
 )
 
 rosidl_generate_interfaces(${PROJECT_NAME}
